@@ -1,0 +1,5 @@
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client\bin\Debug\Client.exe.config
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client\bin\Debug\Client.exe
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client\bin\Debug\Client.pdb
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client\obj\Debug\Client.exe
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client\obj\Debug\Client.pdb

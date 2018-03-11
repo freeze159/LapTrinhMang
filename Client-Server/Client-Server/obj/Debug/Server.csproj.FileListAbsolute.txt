@@ -1,0 +1,6 @@
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client-Server\bin\Debug\Client-Server.exe.config
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client-Server\bin\Debug\Client-Server.exe
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client-Server\bin\Debug\Client-Server.pdb
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client-Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client-Server\obj\Debug\Client-Server.exe
+T:\HUFLIT\Junior - 3rd\Network Programming\Client-Server\Client-Server\obj\Debug\Client-Server.pdb
