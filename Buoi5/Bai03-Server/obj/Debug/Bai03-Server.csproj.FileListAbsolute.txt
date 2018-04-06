@@ -1,0 +1,6 @@
+T:\HUFLIT\Junior - 3rd\Network Programming\Buoi05\Bai03-Server\bin\Debug\Bai03-Server.exe.config
+T:\HUFLIT\Junior - 3rd\Network Programming\Buoi05\Bai03-Server\bin\Debug\Bai03-Server.exe
+T:\HUFLIT\Junior - 3rd\Network Programming\Buoi05\Bai03-Server\bin\Debug\Bai03-Server.pdb
+T:\HUFLIT\Junior - 3rd\Network Programming\Buoi05\Bai03-Server\obj\Debug\Bai03-Server.csprojResolveAssemblyReference.cache
+T:\HUFLIT\Junior - 3rd\Network Programming\Buoi05\Bai03-Server\obj\Debug\Bai03-Server.exe
+T:\HUFLIT\Junior - 3rd\Network Programming\Buoi05\Bai03-Server\obj\Debug\Bai03-Server.pdb
