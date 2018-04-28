@@ -1,0 +1,14 @@
+D:\vivi\Lab7_Bai1\RecvBroadcst\bin\Debug\RecvBroadcst.exe.config
+D:\vivi\Lab7_Bai1\RecvBroadcst\bin\Debug\RecvBroadcst.exe
+D:\vivi\Lab7_Bai1\RecvBroadcst\bin\Debug\RecvBroadcst.pdb
+D:\vivi\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.csprojResolveAssemblyReference.cache
+D:\vivi\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.csproj.CoreCompileInputs.cache
+D:\vivi\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.exe
+D:\vivi\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.pdb
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\bin\Debug\RecvBroadcst.exe.config
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\bin\Debug\RecvBroadcst.exe
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\bin\Debug\RecvBroadcst.pdb
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.csproj.CoreCompileInputs.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.exe
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\RecvBroadcst\obj\Debug\RecvBroadcst.pdb

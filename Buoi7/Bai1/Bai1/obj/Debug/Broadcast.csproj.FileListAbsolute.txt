@@ -1,0 +1,16 @@
+D:\vivi\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.exe.config
+D:\vivi\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.exe
+D:\vivi\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.pdb
+D:\vivi\Lab7_Bai1\Lab7_Bai1\obj\Debug\Broadcast.csproj.CoreCompileInputs.cache
+D:\vivi\Lab7_Bai1\Lab7_Bai1\obj\Debug\Lab7_Bai1.exe
+D:\vivi\Lab7_Bai1\Lab7_Bai1\obj\Debug\Lab7_Bai1.pdb
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.exe.config
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.exe
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.pdb
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\obj\Debug\Broadcast.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\obj\Debug\Broadcast.csproj.CoreCompileInputs.cache
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\obj\Debug\Lab7_Bai1.exe
+E:\HUFLIT Junior\Network Programming\Lab 7\Lab7_Bai1\Lab7_Bai1\obj\Debug\Lab7_Bai1.pdb
+C:\Users\Asus\Desktop\NetworkProgramming-Lab07-master\Lab7_Bai1\Lab7_Bai1\bin\Debug\Lab7_Bai1.exe.config
+C:\Users\Asus\Desktop\NetworkProgramming-Lab07-master\Lab7_Bai1\Lab7_Bai1\obj\Debug\Lab7_Bai1.exe
+C:\Users\Asus\Desktop\NetworkProgramming-Lab07-master\Lab7_Bai1\Lab7_Bai1\obj\Debug\Lab7_Bai1.pdb
